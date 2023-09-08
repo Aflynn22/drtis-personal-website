@@ -1,6 +1,5 @@
 body {
     background-color: white;
-    background-image: url(peach-cat-kiss.gif);
 }
 .hero {
     text-align: center;
@@ -12,5 +11,5 @@ body {
 h2 {
     color: royalblue;
     text-align:center;
-    text-shadow: magenta 1px 0 10px;
+    text-shadow: magenta 1px 0 10px;    
 } 
