@@ -9,7 +9,7 @@ body {
     font-family: cursive;
     font-size: larger;
     text-shadow: #FC0 1px 0 10px;
-    background-image: url(Hearts\ pattern.jpg);
+    background-image: url(Blck\ Cats.jpg);
 }
 h2 {
     color: royalblue;
@@ -22,5 +22,12 @@ h2 {
 }
 
 .img-Binx-2 {
+    width: 300px;
+}
+.img-Beauty-and-the-Beast {
+    width: 300px;
+}
+
+.img-Clearly-a-Trap {
     width: 300px;
 }
