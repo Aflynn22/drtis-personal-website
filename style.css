@@ -1,7 +1,6 @@
 body {
     background-color: white;
-    background-image: url(peach-cat-kiss.gif);
-    
+    background-image: url(angry\ black\ cat.gif);
 }
 .hero {
     text-align: center;
@@ -18,5 +17,5 @@ h2 {
 }
 
 .img-Binx {
-    width: 300px;
+    width: 250px;
 }
