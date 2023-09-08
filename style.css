@@ -1,5 +1,7 @@
 body {
     background-color: white;
+    background-image: url(peach-cat-kiss.gif);
+    
 }
 .hero {
     text-align: center;
@@ -7,9 +9,18 @@ body {
     font-family: cursive;
     font-size: larger;
     text-shadow: #FC0 1px 0 10px;
+    background-image: url(Hearts\ pattern.jpg);
 }
 h2 {
     color: royalblue;
     text-align:center;
     text-shadow: magenta 1px 0 10px;    
-} 
+}
+
+.img-Binx-1 {
+    width: 300px;
+}
+
+.img-Binx-2 {
+    width: 300px;
+}
